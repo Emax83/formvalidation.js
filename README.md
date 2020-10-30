@@ -1,2 +1,2 @@
-# scripts.js
+# formvalidation.js
 useful Javascript functions
